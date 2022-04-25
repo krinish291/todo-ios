@@ -342,14 +342,14 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_ASSET_PATHS = "\"DoDo/Preview Content\"";
-				DEVELOPMENT_TEAM = G66XPV3HVM;
+				DEVELOPMENT_TEAM = K33F3342MJ;
 				ENABLE_PREVIEWS = YES;
 				INFOPLIST_FILE = "$(SRCROOT)/DoDo/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.pavlovskyistudio.DoDo;
+				PRODUCT_BUNDLE_IDENTIFIER = com.atliq.boilerplate;
 				PRODUCT_NAME = dodo;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = 1;
@@ -362,14 +362,14 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_ASSET_PATHS = "\"DoDo/Preview Content\"";
-				DEVELOPMENT_TEAM = G66XPV3HVM;
+				DEVELOPMENT_TEAM = K33F3342MJ;
 				ENABLE_PREVIEWS = YES;
 				INFOPLIST_FILE = "$(SRCROOT)/DoDo/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.pavlovskyistudio.DoDo;
+				PRODUCT_BUNDLE_IDENTIFIER = com.atliq.boilerplate;
 				PRODUCT_NAME = dodo;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = 1;
