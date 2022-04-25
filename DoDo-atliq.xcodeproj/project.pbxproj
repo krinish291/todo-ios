@@ -126,9 +126,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		79B789C724853D9000D0B4A6 /* DoDo */ = {
+		79B789C724853D9000D0B4A6 /* DoDo-atliq */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 79B789DC24853D9300D0B4A6 /* Build configuration list for PBXNativeTarget "DoDo" */;
+			buildConfigurationList = 79B789DC24853D9300D0B4A6 /* Build configuration list for PBXNativeTarget "DoDo-atliq" */;
 			buildPhases = (
 				79B789C424853D9000D0B4A6 /* Sources */,
 				79B789C524853D9000D0B4A6 /* Frameworks */,
@@ -138,7 +138,7 @@
 			);
 			dependencies = (
 			);
-			name = DoDo;
+			name = "DoDo-atliq";
 			productName = ToDo;
 			productReference = 79B789C824853D9000D0B4A6 /* dodo.app */;
 			productType = "com.apple.product-type.application";
@@ -158,7 +158,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 79B789C324853D9000D0B4A6 /* Build configuration list for PBXProject "DoDo" */;
+			buildConfigurationList = 79B789C324853D9000D0B4A6 /* Build configuration list for PBXProject "DoDo-atliq" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -171,7 +171,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				79B789C724853D9000D0B4A6 /* DoDo */,
+				79B789C724853D9000D0B4A6 /* DoDo-atliq */,
 			);
 		};
 /* End PBXProject section */
@@ -383,7 +383,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		79B789C324853D9000D0B4A6 /* Build configuration list for PBXProject "DoDo" */ = {
+		79B789C324853D9000D0B4A6 /* Build configuration list for PBXProject "DoDo-atliq" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				79B789DA24853D9300D0B4A6 /* Debug */,
@@ -392,7 +392,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		79B789DC24853D9300D0B4A6 /* Build configuration list for PBXNativeTarget "DoDo" */ = {
+		79B789DC24853D9300D0B4A6 /* Build configuration list for PBXNativeTarget "DoDo-atliq" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				79B789DD24853D9300D0B4A6 /* Debug */,

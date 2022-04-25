@@ -16,8 +16,8 @@
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "79B789C724853D9000D0B4A6"
                BuildableName = "dodo.app"
-               BlueprintName = "DoDo"
-               ReferencedContainer = "container:DoDo.xcodeproj">
+               BlueprintName = "DoDo-atliq"
+               ReferencedContainer = "container:DoDo-atliq.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -46,8 +46,8 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "79B789C724853D9000D0B4A6"
             BuildableName = "dodo.app"
-            BlueprintName = "DoDo"
-            ReferencedContainer = "container:DoDo.xcodeproj">
+            BlueprintName = "DoDo-atliq"
+            ReferencedContainer = "container:DoDo-atliq.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -63,8 +63,8 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "79B789C724853D9000D0B4A6"
             BuildableName = "dodo.app"
-            BlueprintName = "DoDo"
-            ReferencedContainer = "container:DoDo.xcodeproj">
+            BlueprintName = "DoDo-atliq"
+            ReferencedContainer = "container:DoDo-atliq.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
